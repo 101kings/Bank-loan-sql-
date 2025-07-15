@@ -58,7 +58,5 @@ SQL queries were used to prepare data and generate KPIs consumed by the Tableau 
   - Employment length
   - Home ownership
 
----
 
-## 📂 Folder Structure
 
